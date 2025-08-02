@@ -48,6 +48,7 @@ body {
 .num {
   width: 73px;
   height: 73px;
+  border-radius: 10px;
 }
 
 .operations {
@@ -59,6 +60,7 @@ body {
 
 .operator {
   height: 50px;
+  border-radius:10px;
 }
 
 .equals {
